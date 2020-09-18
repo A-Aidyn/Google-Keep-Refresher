@@ -14,13 +14,7 @@ HOW TO USE
 
     ```
     pip install gkeepapi
-    ```
-
-    ```
     pip install requests
-    ```
-
-    ```
     pip install json
     ```
     
