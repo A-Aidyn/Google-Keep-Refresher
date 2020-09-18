@@ -9,6 +9,20 @@ HOW TO USE
     ```
     python3 code.py
     ```
-   
+    
+3.5 You might need to install required python libraries. To do this type these commands
+
+    ```
+    pip install gkeepapi
+    ```
+
+    ```
+    pip install requests
+    ```
+
+    ```
+    pip install json
+    ```
+    
 4. Enter your credentials
 5. Enjoy!
