@@ -13,9 +13,9 @@ HOW TO USE
 3.5 You might need to install required python libraries. To do this type these commands
 
     
-    pip install gkeepapi
-    pip install requests
-    pip install json
+    pip3 install gkeepapi
+    pip3 install requests
+    pip3 install json
     
     
 4. Enter your credentials
