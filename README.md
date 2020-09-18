@@ -16,6 +16,7 @@ HOW TO USE
     pip3 install gkeepapi
     pip3 install requests
     pip3 install json
+    pip3 install beautifulsoup4
     
     
 4. Enter your credentials
